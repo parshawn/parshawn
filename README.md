@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Parshawn Gerafian**
 
-Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering** and **Data Science** at UC Berkeley. My work and passions sit at the intersection of **biology**, **technology**, and **machine learning**, where I explore solutions to some of the biggest challenges in healthcare and life sciences.
+Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering** and **Computer Science** at UC Berkeley. My work and passions sit at the intersection of **biology**, **technology**, and **machine learning**, where I explore solutions to some of the biggest challenges in healthcare and life sciences.
 
 ## 🧪 About Me
 
@@ -17,9 +17,9 @@ Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering**
 
 - **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-- **Technical Focus**: Machine learning, cloud computing, deep learning, and bioinformatics
+- **Technical Focus**: Machine learning, Deep learning, Data Engineering, and Bioinformatics. 
 
-- **Lab Techniques**: Molecular cloning, protein purification, imaging analysis, and more
+- **Lab Techniques**: Molecular cloning, protein purification, Quantitative imaging analysis, Cell and Tissue Culture and more
 
 - **Tools & Frameworks**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Bowtie2](https://img.shields.io/badge/Bowtie2-4A90E2?style=flat&logo=bowtie&logoColor=white)
 
