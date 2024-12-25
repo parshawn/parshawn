@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Parshawn Gerafian**
 
-Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering** and **Computer Science** at UC Berkeley. My work and passions sit at the intersection of **biology**, **technology**, and **machine learning**, where I explore solutions to some of the biggest challenges in healthcare and life sciences.
+Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering** and **Computer Science** at UC Berkeley. My work and passions sit at the intersection of **Biology**, **Technology**, and **Artificial Intelligence**, where I explore solutions to some of the biggest challenges in healthcare and life sciences.
 
 ## 🧪 About Me
 
@@ -45,6 +45,6 @@ Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering**
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshan-gerafian-0a1b2c3d4/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/parshang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parshawngerafian/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/parshawn)
 
