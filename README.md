@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering**
 
 - 🧑‍💻 **Engineer**: I thrive in building tools that make data more accessible and actionable, from creating automation scripts to designing scalable cloud infrastructure.
 
-- 🌍 **Entrepreneurial Aspirations**: I aim to combine my expertise in bioengineering and AI to contribute to cutting-edge advancements in biopharma and eventually launch my own biotech company.
+- 🌍 **Entrepreneurial Aspirations**: I aim to combine my expertise in bioengineering and AI to contribute to cutting-edge advancements in the field of healthcare and biotechnology.
 
 ## 🔧 Skills & Expertise
 
