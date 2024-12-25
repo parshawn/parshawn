@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Parshan Gerafian**
+# 👋 Hi, I'm **Parshawn Gerafian**
 
 Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering** and **Data Science** at UC Berkeley. My work and passions sit at the intersection of **biology**, **technology**, and **machine learning**, where I explore solutions to some of the biggest challenges in healthcare and life sciences.
 
