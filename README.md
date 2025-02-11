@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm an undergraduate double majoring in **Bioengineering**
 - 🔬 **Researcher**: I've contributed to projects spanning computational biology, AI/ML in precision medicine, and space biology. Highlights include:
   - **UC Berkeley Center for Computational Biology**: Enhanced data pipelines for genomic datasets and automated genome data extraction for machine learning applications and assisted in developing machine learning pipelines.
   - **NASA GeneLab**: Building data pipelines for multi-omics datasets to support space biology research.
-  - **Stanford Deep Data Research Center**: (Incoming) Developing AI-ready datasets with **HuBMAP** and **AI-READI**, and assisting in creating a computational cancer biology course.
+  - **Stanford Deep Data Research Center**: Assisting in creating a computational cancer biology course.
   - **MD Anderson Cancer Center**: Leveraging imaging data and machine learning to improve outcomes for patients undergoing radiation therapy.
 
 - 🧑‍💻 **Engineer**: I thrive in building tools that make data more accessible and actionable, from creating automation scripts to designing scalable cloud infrastructure.
