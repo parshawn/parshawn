@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Parshawn Gerafian**
+# Hi, I'm **Parshawn Gerafian**
 
 Undergraduate **Bioengineering** + **Computer Science** at UC Berkeley. I work at the intersection of **biology** and **AI**, building tools and models that make biomedical data useful for discovery and health.
 
