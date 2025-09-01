@@ -15,7 +15,7 @@ Undergraduate **Bioengineering** + **Computer Science** at UC Berkeley. I work a
 - **Languages:** Python · Java · R · SQL  
 - **ML/AI:** PyTorch · TensorFlow · JAX · scikit-learn · Weights & Biases · Hugging Face
 - **Bioinformatics:** AnnData · Biopython · ViennaRNA · Bowtie2 · FastQC
-- **Data/Infra:** Pandas · NumPy · AWS · GCP · Slurm/HPC
+- **Data/Infra:** Pandas · NumPy · AWS · GCP · Slurm/HPC · CUDA · Git · FastAPI · plotly · Deep Graph library
 
 ## 🚀 Current Focus
 - Fine-tuning single-cell foundation models and aligning cross-species embeddings.
