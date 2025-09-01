@@ -13,7 +13,7 @@ Undergraduate **Bioengineering** + **Computer Science** at UC Berkeley. I work a
 
 ## 🔧 Skills & Tools
 - **Languages:** Python · Java · R · SQL  
-- **ML/AI:** PyTorch · TensorFlow · JAX · scikit-learn · **Weights & Biases** · **Hugging Face**
+- **ML/AI:** PyTorch · TensorFlow · JAX · scikit-learn · Weights & Biases · Hugging Face
 - **Bioinformatics:** AnnData · Biopython · ViennaRNA · Bowtie2 · FastQC
 - **Data/Infra:** Pandas · NumPy · AWS · GCP · Slurm/HPC
 
