@@ -7,7 +7,7 @@ Undergraduate **Bioengineering** + **Computer Science** at UC Berkeley. I work a
   - **Ian Holmes Lab (UC Berkeley):** Generative models for Tc1/Mariner DNA transposons; sequence grammar, insertion preferences, and safer gene-delivery design.
   - **Stanford:** Foundation models for single-cell data (e.g., TranscriptFormer) and a computational cancer biology course module.
   - **NASA GeneLab (ADBR AWG):** Multi-omics pipelines to study links between spaceflight and brain resilience/Alzheimer’s.
-  - **MD Anderson Cancer Center:** ML + clinical data to improve outcomes for patients undergoing radiation therapy.
+  - **MD Anderson Cancer Center:** ML + clinical data to improve dose estimation in head and neck cancer.
 - **Engineer**: I like turning messy datasets into reproducible pipelines—HPC + cloud, automation, evaluation, and clean interfaces.
 - **Builder**: Long-term goal is to combine bio + AI to ship practical tools for researchers and clinicians.
 
